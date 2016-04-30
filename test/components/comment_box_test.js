@@ -9,7 +9,7 @@ describe('CommentBox Component', () => {
 	});
 
 	it('has the className comment-box', () => {
-		expect(component).to.have.class('comment-box')
+		expect(component).to.have.class('comment-box');
 	});
 
 	it('has a text area', () => {
